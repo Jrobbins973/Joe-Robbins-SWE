@@ -16,7 +16,7 @@ function RecentProjects() {
         <button className='back-button' onClick={() => history.push('/')}>Back</button>
 
         <h1>My Portfolio</h1>
-        <p style={{width: '800px', margin: 'auto'}}>Check out my latest projects! They are in order starting from my very first project. Please see the videos for a in-depth explanation of the project, otherwise you'll be left with my less-than-thorough thoughts written here.</p>
+        <p className='portfolio-desc'>Check out my latest projects! They are in order starting from my very first project. Please see the videos for a in-depth explanation of the project, otherwise you'll be left with my less-than-thorough thoughts written here.</p>
         
 
         <div className='grid-container'>

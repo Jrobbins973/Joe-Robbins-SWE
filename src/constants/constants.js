@@ -31,7 +31,7 @@ export const projects = [
 },
 {
     title: 'Reactr',
-    description: "",
+    description: "During phase 4 of my bootcamp we learned Ruby on Rails, and with that, user authentication and authorization. This broadened the horizon for projects a bit. For this project my partner and I set out to make a twitter 'clone'. We were able to get the core functionality of it down, with significantly less conspiracy theories than regular twitter, so I consider that a win.",
     image: 'https://i.imgur.com/RAuy4FJ.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/nardling/phase-4-project',
@@ -41,7 +41,7 @@ export const projects = [
 },
 {
     title: 'ApartmentConnect',
-    description: "Description Coming Soon..",
+    description: "This was my capstone project, and it was a fun one. For all other projects we had about 3-4 days to create them, but for this capstone, we had 4 weeks to do it thanks to winter break adding an extra week. This allowed for significantly more styling time, and time to add those small touches that make a site pleasant to use. Developing a project this big was a great confidence boost that the time and effort put into this bootcamp was worth it, and also gave me great appreciation for the well designed user experience that some websites offer; and some questions about websites that questionably lack the fit and finish that is expected in 2023 (looking at you craigslist...).",
     image: 'https://i.imgur.com/K6EavPu.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/Jrobbins973/ApartmentConnect-FrontEnd',
