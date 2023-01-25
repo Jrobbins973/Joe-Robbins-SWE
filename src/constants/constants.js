@@ -21,7 +21,7 @@ export const projects = [
 },
 {
     title: 'MovieBuddy',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "Description Coming Soon..",
     image: 'https://i.imgur.com/4ttIp9o.jpg',
     tags: ['React', 'WebRTC'],
     source: 'https://github.com/Jrobbins973/phase-3-front-end-react',
@@ -31,7 +31,7 @@ export const projects = [
 },
 {
     title: 'Reactr',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Description Coming Soon..",
     image: 'https://i.imgur.com/RAuy4FJ.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/nardling/phase-4-project',
@@ -41,7 +41,7 @@ export const projects = [
 },
 {
     title: 'ApartmentConnect',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Description Coming Soon..",
     image: 'https://i.imgur.com/K6EavPu.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/Jrobbins973/ApartmentConnect-FrontEnd',
