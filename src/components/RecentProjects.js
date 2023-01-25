@@ -1,9 +1,30 @@
 import React from 'react'
+import ProjectDetails from './ProjectDetails';
+import { projects } from '../constants/constants';
+import { useHistory } from 'react-router-dom'
+
+const renderProjectDetails = projects.map(project => <ProjectDetails key={project.id} project={project} />);
 
 function RecentProjects() {
-  return (
-    <div>RecentProjects</div>
-  )
+    const history = useHistory()
+
+
+
+    return (
+        <div>
+
+        <button className='back-button' onClick={() => history.push('/')}>Back</button>
+
+        <h1>My Portfolio</h1>
+        <p style={{width: '800px', margin: 'auto'}}>Check out my latest projects! They are in order starting from my very first project. Please see the videos for a in-depth explanation of the project, otherwise you'll be left with my less-than-thorough thoughts written here.</p>
+        
+
+        <div className='grid-container'>
+            {renderProjectDetails}
+        </div>
+
+        </div>
+    )
 }
 
 export default RecentProjects

@@ -250,7 +250,7 @@ button:focus-visible {
 
 .lets-connect {
   position: relative;
-  right: 0px;
+  right: 20px;
 
 }
 
@@ -324,6 +324,7 @@ button:focus-visible {
 
 .modal {
   position: fixed;
+
   left: 0;
   top: 0;
   right: 0;
@@ -336,7 +337,7 @@ button:focus-visible {
 }
 
 .modal-content {
-  width: 500px;
+  width: 1000px;
   background-color: #fff;
   color: white;
   background-color: #000220;
@@ -426,15 +427,14 @@ button:focus-visible {
 
 .project-description {
   /* border: 1px solid white; */
-  overflow: scroll;
+  overflow: auto;
+
   
 
 
 }
 
-.project-description::-webkit-scrollbar {
-  display: none;
-}
+
 
 
 .back-button {
