@@ -21,7 +21,7 @@ export const projects = [
 },
 {
     title: 'MovieBuddy',
-    description: "Description Coming Soon..",
+    description: "This project was a great lesson in the fact that programming languages are very much a 'Use it or Lose It' skill. For this phase of the bootcamp we were learning Ruby to start developing a custom RESTful API. While that was going swimmingly, by the time project week came around I hadn't touched React in about 3 weeks. So when it came time to make the front-end of my project, I spent an embarrassing amount of time trying to remember how inverse data flow worked and why stuff wasn't showing up on my page.. so, note to self: don't completely abandon an old language when the new shiny language comes along, it might come back to bite you.",
     image: 'https://i.imgur.com/4ttIp9o.jpg',
     tags: ['React', 'WebRTC'],
     source: 'https://github.com/Jrobbins973/phase-3-front-end-react',
@@ -31,7 +31,7 @@ export const projects = [
 },
 {
     title: 'Reactr',
-    description: "Description Coming Soon..",
+    description: "",
     image: 'https://i.imgur.com/RAuy4FJ.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/nardling/phase-4-project',
