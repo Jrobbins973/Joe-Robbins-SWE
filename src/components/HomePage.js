@@ -17,7 +17,7 @@ function HomePage() {
     return (
 <div>
         <h1>Welcome! My name is Joe Robbins</h1>
-        <h3 style={{width: '890px'}}>I'm a Software Engineering Bootcamp graduate who is excited to start a career in Software Development. </h3>
+        <h3>I'm a Software Engineering Bootcamp graduate who is excited to start a career in Software Development. </h3>
         <div className = "wrapper">
         <div className = "static-txt">    </div>
         <ul className = "dynamic-txts">
